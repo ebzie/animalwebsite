@@ -1,0 +1,68 @@
+body{
+	color: white;
+	font-font-family: arial;
+	width: 850px;
+	margin: auto;
+	background-image: url('dolphin.jpg'); 
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+nav{
+	padding:16px;
+	text-align: center;
+}
+nav a{
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	margin: 0 8px;
+	}
+
+#home{
+	background-image: url()
+}
+#info{
+	background-image: url()
+}
+#links{
+	background-image: url()
+}
+#photo{
+	background-image: url()
+}
+h1{
+	background-image: url('');
+	text-align: center;
+	color: orange;
+	font-size: 50px;
+	font-font-family: arial;
+	padding: 50px;
+	text-shadow: 2px 2px black;
+}
+h2{
+	color: orange;
+}
+p{
+	line-height: 25px;
+	font-size: 18px;
+}
+.list{
+	font-size: 24px;
+	list-style: 16x16px;
+}
+a:hover{
+	color: yellow;
+}
+a{
+	 text-decoration: none;
+	 color:orange;
+}
+
+.photos{ 
+margin-bottom: 50px;
+position: relative;
+float: center;
+width: 50%;
+min-height: 200px;
+}
