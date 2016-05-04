@@ -60,9 +60,9 @@ a{
 }
 
 .photos{ 
-margin-bottom: 50px;
-position: relative;
-float: center;
-width: 50%;
-min-height: 200px;
+	margin-bottom: 50px;
+	position: relative;
+	float: center;
+	width: 50%;
+	min-height: 200px;
 }
